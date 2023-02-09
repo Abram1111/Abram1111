@@ -30,7 +30,7 @@ CV](https://drive.google.com/file/d/1xEj8uMEgo6hYeBBA4omQpr38ydtS9wln/view?usp=s
     ><img
       src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"
   /></a>
-  <a href="https://www.facebook.com/karimMohmaedZaghloul" title="Facebook"
+  <a href="https://www.facebook.com/abram.gad.1/" title="Facebook"
     ><img
       src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"
   /></a>
