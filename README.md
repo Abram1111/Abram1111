@@ -16,7 +16,7 @@
 <br/>
 
 -:thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY
-CV](https://drive.google.com/file/d/1xEj8uMEgo6hYeBBA4omQpr38ydtS9wln/view?usp=sharing).
+CV](https://drive.google.com/file/d/1rxBTWrE7bq9y6hk_KqlZwgAo4cAAztvM/view?usp=sharing).
 <br/>
 
 <br/>
