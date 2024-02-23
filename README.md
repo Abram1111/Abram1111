@@ -157,19 +157,19 @@ CV](https://drive.google.com/file/d/1rxBTWrE7bq9y6hk_KqlZwgAo4cAAztvM/view?usp=s
 [![Abram Gad github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abram1111&bg_color=000000&color=FFFFFF&line=10B1E6&point=FF3757&area=true&hide&radius=50)](https://github.com/Abram1111/github-readme-activity-graph)
 <br> 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abram1111&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abram1111&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abram1111&theme=radical&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abram1111&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abram1111&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abram1111&theme=tokyonight&utcOffset=8)
    
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abram1111&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Abram1111&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abram1111&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Abram1111&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abram1111&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html,jupyter%20notebook&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abram1111&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html,jupyter%20notebook&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center" >
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=Abram1111&theme=tokyonight&margin-w=15" /> -->
 <div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abram1111&theme=radical&column=9)](https://github.com/Naderab/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abram1111&theme=tokyonight&column=9)](https://github.com/Naderab/github-profile-trophy)
 
 #### Profile Views
  
